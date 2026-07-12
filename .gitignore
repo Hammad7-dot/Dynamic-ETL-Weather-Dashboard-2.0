@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+weather.db
+logs/
+data/raw/*
+data/processed/*
+.vscode/
+.idea/
+.DS_Store

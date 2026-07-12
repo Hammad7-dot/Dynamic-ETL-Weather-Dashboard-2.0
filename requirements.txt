@@ -1,0 +1,10 @@
+streamlit>=1.32
+plotly
+pandas
+numpy
+requests
+python-dotenv
+SQLAlchemy>=2.0
+APScheduler
+psycopg2-binary
+pytest
