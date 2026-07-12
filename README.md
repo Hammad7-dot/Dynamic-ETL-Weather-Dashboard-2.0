@@ -1,10 +1,12 @@
 ---
 title: Dynamic ETL Weather Dashboard
-emoji: 🌤️
+emoji: 🌦️
 colorFrom: blue
 colorTo: green
-sdk: streamlit
-sdk_version: 1.45.1
-app_file: app.py
+sdk: docker
 pinned: false
 ---
+
+# Dynamic ETL Weather Dashboard
+
+An end-to-end ETL weather dashboard built with Python, SQLAlchemy, Streamlit, and Docker.
